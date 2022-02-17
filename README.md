@@ -9,9 +9,9 @@ ultimate task
 		
 		- Directory is changed to path containing the NodeJS file as follows: cd C:\Users\User
 
-		- The following command in then run: npm install prompt-sync
+		- The following command is then run: npm install prompt-sync
 		
-		- The command to run the file will be as follows: node Task.js
+		- The command to run the file will be as follows: node Task1.js
 
 4) The function will then be executed and will ask for Country and City input
 
