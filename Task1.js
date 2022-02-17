@@ -1,5 +1,5 @@
 const request = require('request'); 
-var API_KEY = '67b39c74787d3337d69f76fd02d907bb'; 
+var API_KEY = '5337e56560bc910bf077308486a29e33'; 
   
 const forecast = function (city) { 
   
