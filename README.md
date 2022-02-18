@@ -3,7 +3,7 @@ ultimate task
 
 1) Node JS first needs to be installed, official packages for all the major platforms are available at https://nodejs.dev/download/.
 
-2) ultimate_task1.js file is downladed to a certain directory, example: C:\Users\User
+2) Task1.js file is downladed to a certain directory, example: C:\Users\User
 
 3) Command Line is then open then the following steps are performed:
 		
